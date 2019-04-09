@@ -9,7 +9,7 @@ Every hyperlinking leads you to a more detailed outlook of that concept. You are
 
 ## Projects
 
-* The Taxi Problem: Train a taxi to pick up and drop off passengers. _Coming soon!_
+* [The Taxi Problem](https://github.com/plopd/deep-reinforcement-learning/blob/master/lab-taxi/README.md): Train a taxi to pick up and drop off passengers.
 * [Navigation](https://github.com/plopd/navigation): Train an agent with the DQN algorithm to navigate and collect yellow bananas while avoiding blue bananas in a large, square world.
 * Continuous Control: Train an robotic arm to reach target locations. _Coming soon!_
 * Collaboration and Competition: Train a pair of agents to play tennis! _Coming soon!_
@@ -17,7 +17,7 @@ Every hyperlinking leads you to a more detailed outlook of that concept. You are
 ## OpenAI Gym Benchmarks
 
 ### Classic Control
-- `Acrobot-v1` with [Tile Coding] and Q-Learning | _Coming soon!_ 
+- `Acrobot-v1` with [Tile Coding](https://github.com/plopd/deep-reinforcement-learning/blob/master/tile-coding/Tile_Coding.ipynb) and Q-Learning
 - `Cartpole-v0` with [Hill Climbing] | _Coming soon!_
 - `Cartpole-v0` with [REINFORCE](https://github.com/plopd/deep-reinforcement-learning/tree/master/reinforce) | solved in 691 episodes
 - `MountainCarContinuous-v0` with [Cross-Entropy Method] | _Coming soon!_
@@ -32,7 +32,7 @@ Every hyperlinking leads you to a more detailed outlook of that concept. You are
 ### Toy Text
 - `FrozenLake-v0` with [Dynamic Programming] | _Coming soon!_
 - `Blackjack-v0` with [Monte Carlo Methods](https://github.com/plopd/deep-reinforcement-learning/tree/master/monte-carlo) | solved in 500000 episodes
-- `CliffWalking-v0` with [Temporal-Difference Methods] | _Coming soon!_
+- `CliffWalking-v0` with [Temporal-Difference Methods](https://github.com/plopd/deep-reinforcement-learning/blob/master/temporal-difference/Temporal_Difference.ipynb) | solved in 5000 episodes
 
 ## Dependencies
 
